@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grapad-ong.org/sitemap-index.xml
