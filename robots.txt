@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://grapad-ong.org/sitemap-index.xml
+Sitemap: https://catidegla.github.io/grapad-ong/sitemap-index.xml
